@@ -196,9 +196,7 @@
                             $(".btn-danger").click(function () {
                                 var url="/feedsReader/public/startup_del";
                                 var id_del = $(this).val();
-
-
-                                $.ajax({
+                              $.ajax({
 
                                     //kiểu post
                                     type    :"post",
