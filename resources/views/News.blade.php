@@ -216,13 +216,9 @@
                                     error: function(){
                                         alert("fail");
                                     }
-
-
-                                })
+                            })
 
                             });
-
-
 
                         },
                         error: function () {
