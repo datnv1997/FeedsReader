@@ -222,8 +222,6 @@
 
                             });
 
-
-
                         },
                         error: function () {
                             alert("fail");
