@@ -216,9 +216,7 @@
                                     error: function(){
                                         alert("fail");
                                     }
-
-
-                                })
+                            })
 
                             });
 
